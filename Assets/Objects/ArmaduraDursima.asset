@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e3afeb9a47ff0054c8a3abc951450921, type: 3}
-  m_Name: Armadura
+  m_Name: ArmaduraDursima
   m_EditorClassIdentifier: 
-  itemName: Armadura
-  itemPrice: 6
-  itemSprite: {fileID: 21300000, guid: 5c81e841f99f744f997dfa12ce9c2a82, type: 3}
+  itemName: Armadura de Placas
+  itemPrice: 20
+  itemSprite: {fileID: 21300000, guid: a7509656986904778b9b80babc278b98, type: 3}
